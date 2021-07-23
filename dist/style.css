@@ -1,0 +1,11 @@
+.drag-secret-hangul__tag{
+  background-color: #ffffff;
+  position: fixed;
+  color: #000000;
+  overflow-y: scroll;
+  box-shadow: 10px 5px 5px rgba(0,0,0,0.5);
+}
+
+.drag-secret-hangul__tag__off{
+  opacity: 0;
+}
